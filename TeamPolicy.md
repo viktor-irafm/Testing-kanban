@@ -1,3 +1,5 @@
+# Team policy file
+
 Codes, Policies & Guidelines
 Our Policies and Guidelines are a key element of our corporate responsibility. They define how we want to conduct business, 
 what we expect of ourselves and our business partners throughout the world.
